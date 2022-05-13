@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso</string>
+    <string name="busqueda">Ingrese un texto de búqueda</string>
+    <string name="posts">Ver publicaciones.</string>
+</resources>
